@@ -1,4 +1,4 @@
-#define version "0.0.0"
+#define version "1.0.0"
 
 namespace CONFIG {
 
